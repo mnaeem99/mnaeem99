@@ -2,7 +2,7 @@
 
 #### 👨‍💻 About Me 
 
-I am a full-stack developer with commercial experience in team environments. My expertise lies in Java, Spring Boot, NodeJS, React.JS, and AWS. I'm adept at developing full-stack applications using modern technologies, always adhering to clean code principles, OOP concepts, design patterns, and SOLID principles.
+I am a full-stack developer with commercial experience in team environments. My expertise lies in Java, Kotlin, Spring Boot, NodeJS, React.JS, and AWS. I'm adept at developing full-stack applications using modern technologies, always adhering to clean code principles, OOP concepts, design patterns, and SOLID principles.
 
 - 🌱 Currently expanding my knowledge in System Design and exploring new developments in the tech world.
 - 💼 Open to remote work opportunities. Currently working as a full-stack developer at Eximia.
