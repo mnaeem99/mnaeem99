@@ -59,7 +59,7 @@ I’ve worked on enterprise-grade tools (FastCode accelerators), SaaS booking sy
 
 ## 🌍 Connect with Me  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-orange?style=flat&logo=google-chrome)](https://your-portfolio-link.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-orange?style=flat&logo=google-chrome)](https://naeem-portfolio.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mnaeem99)  
 [![Fiverr](https://img.shields.io/badge/Fiverr-white?style=flat&logo=fiverr)](https://www.fiverr.com/m_naeem9)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/mnaeem99)  
