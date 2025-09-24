@@ -1,57 +1,50 @@
-### Hi there, I'm Muhammad Naeem 👋
+# 👋 Hi there, I'm Muhammad Naeem  
 
-#### 👨‍💻 About Me 
+🚀 **Senior Full-Stack Developer** | Java | Spring Boot | Microservices | Node.js | React.js | Angular | AWS | SaaS | Cloud Architect  
 
-I am a full-stack developer with commercial experience in team environments. My expertise lies in Java, Kotlin, Spring Boot, NodeJS, React.JS, and AWS. I'm adept at developing full-stack applications using modern technologies, always adhering to clean code principles, OOP concepts, design patterns, and SOLID principles.
+With **5+ years of professional experience**, I specialize in building **scalable web applications, APIs, and SaaS platforms**.  
+I’ve worked on enterprise-grade tools (FastCode accelerators), SaaS booking systems, and real-time platforms with **Java, Spring Boot, React, Node.js, and AWS**.  
 
-- 🌱 Currently expanding my knowledge in System Design and exploring new developments in the tech world.
-- 💼 Open to remote work opportunities. Currently working as a full-stack developer at Eximia.
-- 🎓 Graduated with a degree in BS Software Engineering from UMT, Lahore.
-- 💬 Feel free to reach out to me for discussions on software development, technology trends, or anything tech-related.
+💡 Passionate about **clean code, microservices, and cloud-first development**, I aim to turn ideas into robust, production-ready solutions.  
 
+---
 
-#### 🛠 Skills
+## 🛠 Tech Stack
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![Rest API](https://img.shields.io/badge/Rest_API-2F2F2F?style=for-the-badge)
-  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-  ![Google Place API](https://img.shields.io/badge/Google_Place_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-20232A?style=for-the-badge&logo=redis&logoColor=61DAFB)
+**Languages & Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Material_UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Material_UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-  
-#### 🌍 Connect with Me
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mnaeem99)
-[![Fiverr](https://img.shields.io/badge/Fiverr-white?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/m_naeem9)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mnaeem99)
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
+---
 
+## 🔥 Highlighted Projects  
+
+- **⚡ Low Code Platform (Eximia)** – Enterprise developer tools: Codegen, API Builder, BPMN Workflow Engine, Auth, Logging, Audit, Email Templates, Document Management, and more.  
+- **🚖 BookingForm SaaS** – Ride booking & management system with dynamic pricing, real-time tracking, drivers/vehicles dashboard, Stripe & PayPal integration.  
+- **🍽️ Yumscore App** – Social recommendation app for restaurants with **Google Maps data scraping**, AWS integration, and GraphQL APIs.  
+- **👨‍👩‍👧 iFamily Mobile App** – Cross-platform app (Ionic + Spring Boot 3) with intelligent family-matching algorithm, real-time chat, Firebase Auth, AWS S3/SES.  
+- **📊 Timesheet & Leave Management Systems** – Full-stack apps with role-based access, scheduling, reporting, and modern UIs.  
+
+---
 
 #### 📊 GitHub Statistics
 
@@ -61,4 +54,19 @@ I am a full-stack developer with commercial experience in team environments. My 
 </a>
 
 ![](https://komarev.com/ghpvc/?username=mnaeem99)
+
+---
+
+## 🌍 Connect with Me  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-orange?style=flat&logo=google-chrome)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mnaeem99)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-white?style=flat&logo=fiverr)](https://www.fiverr.com/m_naeem9)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/mnaeem99)  
+
+---
+
+✨ *“Turning ideas into scalable, cloud-native applications.”*  
+
+
 
